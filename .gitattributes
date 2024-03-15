@@ -1,0 +1,4 @@
+*       text=auto
+*.text  text
+*.jpg   -text
+*.py    eol=lf
